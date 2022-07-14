@@ -4,9 +4,9 @@ Im the creator of **AROA-DEV** Organization, im also a junior developer, who is 
 
 Personal Projects: 
 
-Name:  **Secure Self Hosted Communications** (SHSC)
-Status: in progress
-Description: A self hosted network for communications using relay/nodes, that you will have to deploy and setup yourself over your operating area just like TAK program. Im planing on releasing a an version that will use internet for wide area comunications
+<p>Name:  **Secure Self Hosted Communications** (SHSC)</p>
+<p>Status: in progress</p>
+<p>Description: A self hosted network for communications using relay/nodes, that you will have to deploy and setup yourself over your operating area just like TAK program. Im planing on releasing a an version that will use internet for wide area comunications</p>
 <!-- :computer: :infinity: :satellite: :closed_lock_with_key: :globe_with_meridians: -->
 ```mermaid
 graph TD;
