@@ -1,8 +1,6 @@
 # who am I?
 
-Im the creator of **AROA-DEV** Organization, im also a junior developer, who is interested in cybersecurity and privacy, thats what **AROA-DEV** was created for to develope a full tutorial for non technical people to follow 
-
-Personal Projects: 
+Im the creator of **AROA-DEV** Organization, im also a junior developer, who is interested in cybersecurity and privacy, thats what **AROA-DEV** was created for, to develope a full tutorial for non technical people to follow 
 
 
 
