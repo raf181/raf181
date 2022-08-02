@@ -2,7 +2,9 @@
 
 Im the creator of **AROA-DEV** Organization, im also a junior developer, who is interested in cybersecurity and privacy, thats what **AROA-DEV** was created for, to develope a full tutorial for non technical people to follow 
 
+# What im working on?
 
+Right now developmet might be slow for thw aroa-dev.github.io, since im working on geting the cs50 course you can see my work in my [cs50 repository](https://github.com/raf181/cs50).
 
 <br>
 <br>
