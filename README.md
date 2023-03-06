@@ -1,5 +1,9 @@
 # who am I?
+Hi there! My name is Rafa Ponce Vivancos and I'm a student who is passionate about cybersecurity and web development. As an avid learner, I'm constantly seeking to improve my skills and stay up-to-date with the latest industry trends.
 
+My interest in cybersecurity began when I realized how vulnerable our online presence can be to various threats. I've been studying and experimenting with different tools and techniques to enhance my knowledge in this field and to help protect others online.
+
+In addition to cybersecurity, I'm also interested in web development. I enjoy creating responsive and user-friendly websites using modern technologies like HTML, CSS an JavaScript
 
 <a href="http://www.github.com/raf181"><img src="https://github-readme-stats.vercel.app/api?username=raf181&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="raf181's GitHub stats" /></a>
 
