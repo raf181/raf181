@@ -11,7 +11,8 @@ In addition to cybersecurity, I'm also interested in web development. I enjoy cr
 [![GitHub Streak](https://streak-stats.demolab.com?user=raf181&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <hr>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=raf181)](https://github.com/ryo-ma/github-profile-trophy)
+<hr>
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/raf181_#7154" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/raf181" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/raf181_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
