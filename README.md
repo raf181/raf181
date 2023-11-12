@@ -12,6 +12,7 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raf181&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
+
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/raf181_#7154" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/raf181" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/raf181_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
