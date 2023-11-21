@@ -13,6 +13,10 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
 [![trophy](https://github-profile-trophy.vercel.app/?username=raf181&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
+## Certification
+
+[![image](https://github.com/raf181/raf181/assets/93051606/223d8ddd-ce83-42f4-8f36-4d084bba3c07)](https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)[![image](https://github.com/raf181/raf181/assets/93051606/638bf7b3-62bd-49bc-81db-1fd71bff33f2)](https://www.credly.com/badges/70ea556b-a4a8-4084-90fa-5c3d99628bde)
+
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/raf181_#7154" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/raf181" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/raf181_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
