@@ -15,7 +15,20 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
 
 ## Certification
 
-[![image](https://github.com/raf181/raf181/assets/93051606/223d8ddd-ce83-42f4-8f36-4d084bba3c07)](https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)[![image](https://github.com/raf181/raf181/assets/93051606/638bf7b3-62bd-49bc-81db-1fd71bff33f2)](https://www.credly.com/badges/70ea556b-a4a8-4084-90fa-5c3d99628bde)
+<p align="center">
+  <a href="https://www.credly.com/badges/cd83f4ea-92f9-448c-a0ed-89d5aff66641/public_url">
+    <img src="https://github.com/raf181/raf181/assets/93051606/223d8ddd-ce83-42f4-8f36-4d084bba3c07" alt="Badge1" width="150" height="150">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/cd83f4ea-92f9-448c-a0ed-89d5aff66641/public_url">
+    <img src="https://github.com/raf181/raf181/assets/93051606/a616342a-c7c6-4c28-98b2-b0461abd9893" alt="Badge2" width="150" height="150">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/ddcef372-6ead-4978-9b75-dfe48abca565/public_url">
+    <img src="https://github.com/raf181/raf181/assets/93051606/eefdce47-5eab-4bb8-9cda-b657802b9ace" alt="Badge2" width="150" height="150">
+  </a>
+</p>
+
 
 ### Socials
 
