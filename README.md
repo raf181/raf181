@@ -26,7 +26,8 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
   <a href="https://www.credly.com/badges/e8b668f8-741c-467c-956e-c5ed48dbf6e1/public_url">
     <img src="https://github.com/raf181/raf181/assets/93051606/513a5397-b8de-49f9-bec6-517f991da685" alt="Badge1" width="100" height="100">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
   <a href="https://www.credly.com/badges/cd83f4ea-92f9-448c-a0ed-89d5aff66641/public_url">
     <img src="https://github.com/raf181/raf181/assets/93051606/a616342a-c7c6-4c28-98b2-b0461abd9893" alt="Badge2" width="100" height="100">
   </a>
