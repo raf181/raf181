@@ -38,6 +38,12 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
   <a href="https://www.credly.com/badges/5fefd5d8-136e-454e-bc36-e308e6b89d93/public_url">
     <img src="https://github.com/raf181/raf181/assets/93051606/a2081547-b789-4c7b-aa92-428b275c0b10" alt="Badge2" width="100" height="100">
   </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_2lOY92.svg">
+    <img src="https://github.com/user-attachments/assets/bccf410a-0d2e-4677-ae02-abb910cb4bff" alt="Badge2" width="100" height="100">
+      
+  </a>
+    
 </p>
 
 
@@ -47,3 +53,5 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
 <hr>
 
 <!-- ### Active Projects
+![image](https://github.com/user-attachments/assets/bccf410a-0d2e-4677-ae02-abb910cb4bff)
+
