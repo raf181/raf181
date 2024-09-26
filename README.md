@@ -50,6 +50,21 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
   </a>    
 </p>
 
+<hr>
+
+# Try Hack Me
+
+<p align="center">
+    <a href="https://tryhackme.com/p/raf181">
+    <img src="https://github.com/user-attachments/assets/ad0bde65-f330-4d8a-a1a4-5998b422b65a" alt="Badge1" width="100" height="100">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://tryhackme.com/p/raf181">
+    <img src="https://github.com/user-attachments/assets/acba492d-f906-4fd9-9f03-8f9777328011" alt="Badge1" width="100" height="100">
+  </a>
+</p>
+![ohsint]()
+![linux]()
 
 
 
