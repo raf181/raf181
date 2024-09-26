@@ -1,14 +1,19 @@
-# who am I?
+# Who am I?
 Hi there! My name is Rafa Ponce Vivancos and I'm a student who is passionate about cybersecurity and web development. As an avid learner, I'm constantly seeking to improve my skills and stay up-to-date with the latest industry trends.
 
 My interest in cybersecurity began when I realized how vulnerable our online presence can be to various threats. I've been studying and experimenting with different tools and techniques to enhance my knowledge in this field and to help protect my self and others online.
-
-
+<hr>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/raf181.png" alt="TryHackMe">
+</p>
+<hr>
+<p align="center">
 <a href="http://www.github.com/raf181"><img src="https://github-readme-stats.vercel.app/api?username=raf181&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="raf181's GitHub stats" /></a>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=raf181&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+</p>
 <hr>
 
-## Certification
+# Certification
 
 <p align="center">
     <a href="https://www.credly.com/badges/3d308ea4-aacb-4a3e-8806-b9b2ac1bdc00/public_url">
@@ -42,10 +47,11 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
     &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_2lOY92.svg">
     <img src="https://github.com/user-attachments/assets/bccf410a-0d2e-4677-ae02-abb910cb4bff" alt="Badge2" width="100" height="100">
-      
-  </a>
-    
+  </a>    
 </p>
+
+
+
 
 
 <hr>
