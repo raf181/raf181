@@ -59,8 +59,16 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
     <img src="https://github.com/user-attachments/assets/ad0bde65-f330-4d8a-a1a4-5998b422b65a" alt="Badge1" width="100" height="100">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://tryhackme.com/p/raf181">
+  <a href="https://tryhackme.com/p/raf181">
     <img src="https://github.com/user-attachments/assets/acba492d-f906-4fd9-9f03-8f9777328011" alt="Badge1" width="100" height="100">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/raf181">
+    <img src="https://github.com/user-attachments/assets/29c18832-23f8-407e-953b-8a4d9546e7e7" alt="Badge1" width="100" height="100">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/raf181">
+    <img src="https://github.com/user-attachments/assets/4022ca1e-b96d-4d7d-ac63-1f2a0096c097" alt="Badge1" width="100" height="100">
   </a>
 </p>
 ![ohsint]()
@@ -77,3 +85,5 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
 <!-- ### Active Projects
 ![image](https://github.com/user-attachments/assets/bccf410a-0d2e-4677-ae02-abb910cb4bff)
 
+![webbed](https://github.com/user-attachments/assets/29c18832-23f8-407e-953b-8a4d9546e7e7)
+![owasptop10](https://github.com/user-attachments/assets/4022ca1e-b96d-4d7d-ac63-1f2a0096c097)
