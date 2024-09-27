@@ -75,12 +75,6 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
     <img src="https://github.com/user-attachments/assets/3aa1bd4a-ace6-4305-9566-0dd0c7ea98bd" alt="Badge1" width="100" height="100">
   </a>
 </p>
-![ohsint]()
-![linux]()
-
-
-
-
 <hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raf181&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
