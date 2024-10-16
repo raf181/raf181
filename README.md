@@ -77,6 +77,15 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
 </p>
 <hr>
 
+# Hack the Box
+<p align="center">
+    <a href="https://academy.hackthebox.com/achievement/badge/c155474e-8bce-11ef-864f-bea50ffe6cb4">
+    <img src="https://github.com/user-attachments/assets/7e98d3a2-fcca-4c1b-b5dc-6e371a066de9" alt="Badge1" width="100" height="100">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=raf181&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
@@ -84,5 +93,7 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
 ![image](https://github.com/user-attachments/assets/bccf410a-0d2e-4677-ae02-abb910cb4bff)
 
 ![webbed](https://github.com/user-attachments/assets/29c18832-23f8-407e-953b-8a4d9546e7e7)
-![owasptop10](https://github.com/user-attachments/assets/4022ca1e-b96d-4d7d-ac63-1f2a0096c097)
+![owasptop10](https://gith![our-favorite-seabird](https://github.com/user-attachments/assets/fef4dddc-b9fc-46dd-8fa4-04fd1f7aaad4)
+ub.com/user-attachments/assets/4022ca1e-b96d-4d7d-ac63-1f2a0096c097)
 ![mrrobot](https://github.com/user-attachments/assets/3aa1bd4a-ace6-4305-9566-0dd0c7ea98bd)
+![our-favorite-seabird](https://github.com/user-attachments/assets/7e98d3a2-fcca-4c1b-b5dc-6e371a066de9)
