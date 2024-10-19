@@ -78,7 +78,9 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
   <a href="https://tryhackme.com/p/raf181">
     <img src="https://github.com/user-attachments/assets/e0e6e260-e969-48e9-8419-95bd9fbd7c86" alt="Badge1" width="100" height="100">
   </a>
-  
+  <a href="https://tryhackme.com/p/raf181">
+    <img src="https://github.com/user-attachments/assets/bc1ac69e-22a4-463d-bdc5-5fb569da175c" alt="Badge1" width="100" height="100">
+  </a>
 </p>
 <hr>
 
@@ -104,3 +106,4 @@ ub.com/user-attachments/assets/4022ca1e-b96d-4d7d-ac63-1f2a0096c097)
 ![our-favorite-seabird](https://github.com/user-attachments/assets/7e98d3a2-fcca-4c1b-b5dc-6e371a066de9)
 
 ![hashcracker](https://github.com/user-attachments/assets/e0e6e260-e969-48e9-8419-95bd9fbd7c86)
+![iacsecurity](https://github.com/user-attachments/assets/bc1ac69e-22a4-463d-bdc5-5fb569da175c)
