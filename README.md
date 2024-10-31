@@ -13,7 +13,8 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
 </p>
 <hr>
 
-# Certification
+# Certifications
+## CISCO
 
 <p align="center">
     <a href="https://www.credly.com/badges/3d308ea4-aacb-4a3e-8806-b9b2ac1bdc00/public_url">
@@ -45,6 +46,13 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
     <img src="https://github.com/raf181/raf181/assets/93051606/a2081547-b789-4c7b-aa92-428b275c0b10" alt="Badge2" width="100" height="100">
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/3490a74f-ec44-42f7-8b21-0de5bce92f72/public_url">
+    <img src="https://github.com/user-attachments/assets/fe7e658e-39ab-48bf-b765-22c5daf55188" alt="Badge2" width="100" height="100">
+  </a>    
+</p>
+
+## Offsec
+<p align="center">
   <a href="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_2lOY92.svg">
     <img src="https://github.com/user-attachments/assets/bccf410a-0d2e-4677-ae02-abb910cb4bff" alt="Badge2" width="100" height="100">
   </a>    
@@ -81,7 +89,7 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
   <a href="https://tryhackme.com/p/raf181">
     <img src="https://github.com/user-attachments/assets/bc1ac69e-22a4-463d-bdc5-5fb569da175c" alt="Badge1" width="100" height="100">
   </a>
-  <a href="https://tryhackme.com/p/raf181">
+  <a href="[https://tryhackme.com/p/raf181](https://www.credly.com/badges/3490a74f-ec44-42f7-8b21-0de5bce92f72/public_url)">
     <img src="https://github.com/user-attachments/assets/e7166c8e-c22a-424b-8b03-d554e064faa8" alt="Badge1" width="100" height="100">
   </a>
 </p>
@@ -103,6 +111,9 @@ My interest in cybersecurity began when I realized how vulnerable our online pre
 ![image](https://github.com/user-attachments/assets/bccf410a-0d2e-4677-ae02-abb910cb4bff)
 ![webbed](https://github.com/user-attachments/assets/29c18832-23f8![hashcracker](https://github.com/user-attachments/assets/820f994c-8ee0-4fb0-b94b-687409035478)
 -407e-953b-8a4d9546e7e7)
+![cyber-threat-management](https://github.com/user-attachments/assets/fe7e658e-39ab-48bf-b765-22c5daf55188)
+
+
 ![owasptop10](https://gith![our-favorite-seabird](https://github.com/user-attachments/assets/fef4dddc-b9fc-46dd-8fa4-04fd1f7aaad4)
 ub.com/user-attachments/assets/4022ca1e-b96d-4d7d-ac63-1f2a0096c097)
 ![mrrobot](https://github.com/user-attachments/assets/3aa1bd4a-ace6-4305-9566-0dd0c7ea98bd)
