@@ -27,7 +27,14 @@
   <a href="https://tryhackme.com/p/raf181">
     <img src="https://github.com/user-attachments/assets/bc1ac69e-22a4-463d-bdc5-5fb569da175c" alt="Badge1" width="100" height="100">
   </a>
-  <a href="[https://tryhackme.com/p/raf181](https://www.credly.com/badges/3490a74f-ec44-42f7-8b21-0de5bce92f72/public_url)">
+  <a href="https://tryhackme.com/p/raf181">
     <img src="https://github.com/user-attachments/assets/e7166c8e-c22a-424b-8b03-d554e064faa8" alt="Badge1" width="100" height="100">
   </a>
+  <a href="https://tryhackme.com/p/raf181">
+    <img src="https://github.com/user-attachments/assets/dabd0cd1-1360-4996-a84e-7355d8299f8d" alt="Badge1" width="100" height="100">
+  </a>
+  <a href="https://tryhackme.com/p/raf181">
+    <img src="https://github.com/user-attachments/assets/9796f19f-07f2-45c1-928c-d8d0d9a247ab" alt="Badge1" width="100" height="100">
+  </a>
 </p>
+
