@@ -1,0 +1,160 @@
+{
+  "providers": [
+    {
+      "name": "Cisco",
+      "categories": [
+        {
+          "name": "Cybersecurity",
+          "certifications": [
+            {
+              "name": "Junior Cybersecurity Analyst Career Path",
+              "image": "https://github.com/user-attachments/assets/acf26c35-1844-4bd5-a4b0-e447a8f3f9ff",
+              "link": "https://www.credly.com/badges/4f66ef73-ae9d-4966-8d23-96ee756d6d38/public_url"
+            },
+            {
+              "name": "Ethical Hacker",
+              "image": "https://github.com/raf181/raf181/assets/93051606/7323066c-c856-4a16-93db-3fd383dc4b0e",
+              "link": "https://www.credly.com/badges/3d308ea4-aacb-4a3e-8806-b9b2ac1bdc00/public_url"
+            },
+            {
+              "name": "Cyber Threat Management",
+              "image": "https://github.com/user-attachments/assets/fe7e658e-39ab-48bf-b765-22c5daf55188",
+              "link": "https://www.credly.com/badges/3490a74f-ec44-42f7-8b21-0de5bce92f72/public_url"
+            },
+            {
+              "name": "Endpoint Security",
+              "image": "https://github.com/raf181/raf181/assets/93051606/a2081547-b789-4c7b-aa92-428b275c0b10",
+              "link": "https://www.credly.com/badges/5fefd5d8-136e-454e-bc36-e308e6b89d93/public_url"
+            },
+            {
+              "name": "Introduction to Cybersecurity",
+              "image": "https://github.com/raf181/raf181/assets/93051606/eefdce47-5eab-4bb8-9cda-b657802b9ace",
+              "link": "https://www.credly.com/badges/ddcef372-6ead-4978-9b75-dfe48abca565/public_url"
+            }
+          ]
+        },
+        {
+          "name": "Network",
+          "certifications": [
+            {
+              "name": "Network Defense",
+              "image": "https://github.com/user-attachments/assets/2b956de4-fe3d-4cb5-9d9b-1453454e631e",
+              "link": "https://www.credly.com/badges/17b55335-1091-4f83-a746-5166bfbe78ef/public_url"
+            },
+            {
+              "name": "Networking Devices and Initial Configuration",
+              "image": "https://github.com/raf181/raf181/assets/93051606/a616342a-c7c6-4c28-98b2-b0461abd9893",
+              "link": "https://www.credly.com/badges/70ea556b-a4a8-4084-90fa-5c3d99628bde/public_url"
+            },
+            {
+              "name": "Networking Basics",
+              "image": "https://github.com/raf181/raf181/assets/93051606/223d8ddd-ce83-42f4-8f36-4d084bba3c07",
+              "link": "https://www.credly.com/badges/cd83f4ea-92f9-448c-a0ed-89d5aff66641/public_url"
+            }
+          ]
+        },
+        {
+          "name": "Operating Systems and Hardware",
+          "certifications": [
+            {
+              "name": "Computer Hardware Basics",
+              "image": "https://github.com/raf181/raf181/assets/93051606/513a5397-b8de-49f9-bec6-517f991da685",
+              "link": "https://www.credly.com/badges/e8b668f8-741c-467c-956e-c5ed48dbf6e1/public_url"
+            },
+            {
+              "name": "Operating Systems Basics",
+              "image": "https://github.com/user-attachments/assets/a7d583ed-d7ec-4d45-97f4-c0bf64f3d1bc",
+              "link": "https://www.credly.com/badges/88e543c0-72c7-4f7d-9c5d-6736e53960a2/public_url"
+            }
+          ]
+        },
+        {
+          "name": "IoT",
+          "certifications": [
+            {
+              "name": "Introduction to IoT",
+              "image": "https://github.com/user-attachments/assets/590550f9-b252-4aa5-b387-b835d2e81801",
+              "link": "https://www.credly.com/badges/35fde3ca-41d5-4f4e-8c42-721281b0e67f/public_url"
+            }
+          ]
+        },
+        {
+          "name": "Other Skills",
+          "certifications": [
+            {
+              "name": "English for IT 2",
+              "image": "https://github.com/raf181/raf181/assets/93051606/e07e58ad-5fdb-4f31-ae81-e4e52a01400a",
+              "link": "https://www.credly.com/badges/23d2e693-abff-4323-a54f-b621e4a72fe2/public_url"
+            },
+            {
+              "name": "Engaging Stakeholders for Success",
+              "image": "https://github.com/user-attachments/assets/aff583e7-2012-4adb-9315-23ef54682e67",
+              "link": "https://www.credly.com/badges/7bacc66a-12d9-4d2b-9fd7-708015e262bd/public_url"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Try Hack Me",
+      "categories": [
+        {
+          "name": "",
+          "certifications": [
+            {
+              "name": "OhSINT",
+              "image": "https://github.com/user-attachments/assets/ad0bde65-f330-4d8a-a1a4-5998b422b65a",
+              "link": "https://tryhackme.com/p/raf181"
+            },
+            {
+              "name": "cat linux.txt",
+              "image": "https://github.com/user-attachments/assets/acba492d-f906-4fd9-9f03-8f9777328011",
+              "link": "https://tryhackme.com/p/raf181"
+            },
+            {
+              "name": "Webbed",
+              "image": "https://github.com/user-attachments/assets/29c18832-23f8-407e-953b-8a4d9546e7e7",
+              "link": "https://tryhackme.com/p/raf181"
+            },
+            {
+              "name": "OWASP Top 10",
+              "image": "https://github.com/user-attachments/assets/4022ca1e-b96d-4d7d-ac63-1f2a0096c097",
+              "link": "https://tryhackme.com/p/raf181"
+            },
+            {
+              "name": "Mr. Robot",
+              "image": "https://github.com/user-attachments/assets/3aa1bd4a-ace6-4305-9566-0dd0c7ea98bd",
+              "link": "https://tryhackme.com/p/raf181"
+            },
+            {
+              "name": "Hash Cracker",
+              "image": "https://github.com/user-attachments/assets/e0e6e260-e969-48e9-8419-95bd9fbd7c86",
+              "link": "https://tryhackme.com/p/raf181"
+            },
+            {
+              "name": "Terminated!",
+              "image": "https://github.com/user-attachments/assets/bc1ac69e-22a4-463d-bdc5-5fb569da175c",
+              "link": "https://tryhackme.com/p/raf181"
+            },
+            {
+              "name": "Introduction to Security Engineering",
+              "image": "https://github.com/user-attachments/assets/e7166c8e-c22a-424b-8b03-d554e064faa8",
+              "link": "https://tryhackme.com/p/raf181"
+            },
+            {
+                "name": "Cyber Ready",
+                "image": "https://github.com/user-attachments/assets/dabd0cd1-1360-4996-a84e-7355d8299f8d",
+                "link": "https://tryhackme.com/p/raf181"
+            },
+            {
+                "name": "Advent of Cyber",
+                "image": "https://github.com/user-attachments/assets/9796f19f-07f2-45c1-928c-d8d0d9a247ab",
+                "link": "https://tryhackme.com/p/raf181"
+            }
+
+          ]
+        }
+      ]
+    }
+  ]
+}

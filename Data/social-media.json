@@ -1,0 +1,46 @@
+{
+  "social_media": [
+    {
+      "name": "Instagram",
+      "username": "raf181_",
+      "url": "https://www.instagram.com/raf181_/",
+      "icon": "/style/css/assets/img/Socialmedia/Instagram.png"
+    },
+    {
+      "name": "Twitter",
+      "username": "raf181_",
+      "url": "https://twitter.com/raf181_",
+      "icon": "/style/css/assets/img/Socialmedia/tweeter.png"
+    },
+    {
+      "name": "Snapchat",
+      "username": "raf-181",
+      "url": "https://www.snapchat.com/add/raf-181?share_id=SWnFL0CVWvo&locale=en-US",
+      "icon": "/style/css/assets/img/Socialmedia/Snapchat.png"
+    },
+    {
+      "name": "Discord",
+      "username": "raf181_#7154",
+      "url": "https://discord.com/users/raf181_#7154",
+      "icon": "/style/css/assets/img/Socialmedia/Discord.png"
+    },
+    {
+      "name": "Github",
+      "username": "raf181",
+      "url": "https://github.com/raf181",
+      "icon": "/style/css/assets/img/Socialmedia/Github.png"
+    },
+    {
+      "name": "Spotify",
+      "username": "raf181_",
+      "url": "https://open.spotify.com/user/s1qpczczvgzhjkhsggsbuyfa2?si=70067623232942c0",
+      "icon": "/style/css/assets/img/Socialmedia/Spotify.png"
+    },
+    {
+      "name": "AROA-DEV",
+      "username": "Organization",
+      "url": "https://github.com/AROA-DEV",
+      "icon": "/style/css/assets/img/Socialmedia/Server.png"
+    }
+  ]
+}
