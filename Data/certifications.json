@@ -99,13 +99,18 @@
     "name": "Google",
     "categories": [
         {
-          "name": "",
+          "name": "cloud",
           "certifications": [
 						{
-              "name": "Cloud Computing",
+              "name": "Cloud",
               "image": "https://github.com/user-attachments/assets/c4af3836-d8be-4bb0-94c8-2f86a3f9fbd0",
               "link": "https://skillshop.exceedlms.com/student/award/1y46cRQwcuXGhf1qrQYDSEuD"
-            },
+            }
+					]
+				},
+				{
+					"name": "Business",
+					"certifications": [
             {
               "name": "Protect Your Business: Cybersecurity in Remote Work",
               "image": "https://github.com/user-attachments/assets/cb2b1fa5-09d6-4eef-a49b-7402f7547380",
