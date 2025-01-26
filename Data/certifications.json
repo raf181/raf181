@@ -54,6 +54,16 @@
           ]
         },
         {
+          "name": "IoT",
+          "certifications": [
+            {
+              "name": "Introduction to IoT",
+              "image": "https://github.com/user-attachments/assets/590550f9-b252-4aa5-b387-b835d2e81801",
+              "link": "https://www.credly.com/badges/35fde3ca-41d5-4f4e-8c42-721281b0e67f/public_url"
+            }
+          ]
+        },
+        {
           "name": "Operating Systems and Hardware",
           "certifications": [
             {
@@ -65,16 +75,6 @@
               "name": "Operating Systems Basics",
               "image": "https://github.com/user-attachments/assets/a7d583ed-d7ec-4d45-97f4-c0bf64f3d1bc",
               "link": "https://www.credly.com/badges/88e543c0-72c7-4f7d-9c5d-6736e53960a2/public_url"
-            }
-          ]
-        },
-        {
-          "name": "IoT",
-          "certifications": [
-            {
-              "name": "Introduction to IoT",
-              "image": "https://github.com/user-attachments/assets/590550f9-b252-4aa5-b387-b835d2e81801",
-              "link": "https://www.credly.com/badges/35fde3ca-41d5-4f4e-8c42-721281b0e67f/public_url"
             }
           ]
         },
@@ -127,7 +127,7 @@
           "name": "Events",
           "certifications": [
             {
-              "name": "Advent of Cyber",
+              "name": "Advent of Cyber 24",
               "image": "https://github.com/user-attachments/assets/9796f19f-07f2-45c1-928c-d8d0d9a247ab",
               "link": "https://tryhackme.com/r/p/raf181.personal"
             }
