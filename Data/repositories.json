@@ -1,34 +1,34 @@
 {
   "repositories": [
     {
-      "name": "AROA-DEV/aroa-dev.github.io",
-      "description": "The code for the page",
-      "languages": "HTML, CSS, SCSS, JS",
-      "url": "https://github.com/AROA-DEV/aroa-dev.github.io"
+        "name": "Ghostkey-Project/Ghostkey_Server",
+        "description": "C2 server for the Ghostkey project",
+        "languages": "PowerShell, Arduino",
+        "url": "https://github.com/Ghostkey-Project/Ghostkey"
+      },
+    {
+      "name": "Ghostkey-Project/Ghostkey_Server",
+      "description": "C2 server for the Ghostkey project",
+      "languages": "Go, Python",
+      "url": "https://github.com/Ghostkey-Project/Ghostkey_Server"
+    },
+    {
+      "name": "Ghostkey-Project/Ghostkey_Depo",
+      "description": "Central file storage for Ghostkey project",
+      "languages": "Go",
+      "url": "https://github.com/Ghostkey-Project/Ghostkey_Depo"
+    },
+    {
+        "name": "learn.raf-181.org",
+        "description": "Central file storage for Ghostkey project",
+        "languages": "Go",
+        "url": "https://github.com/Ghostkey-Project/Ghostkey_Depo"
     },
     {
       "name": "AROA-DEV/Automator",
       "description": "Automation for Linux installs",
       "languages": "Shell",
       "url": "https://github.com/AROA-DEV/Automator"
-    },
-    {
-      "name": "raf181/KSP-mods",
-      "description": "Collection of my most used ksp mod",
-      "languages": "Python, C#, Batchfile",
-      "url": "https://github.com/raf181/KSP-mods"
-    },
-    {
-      "name": "raf181/TAK-imagery",
-      "description": "Satellite images for TAK software",
-      "languages": "Sat-Imagery",
-      "url": "https://github.com/raf181/TAK-imagery"
-    },
-    {
-        "name": "araf181/TAK-imagery",
-        "description": "Satellite images for TAK software",
-        "languages": "Sat-Imagery",
-        "url": "https://github.com/raf181/TAK-imagery"
     }
   ]
 }
