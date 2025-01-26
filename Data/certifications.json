@@ -123,8 +123,18 @@
     {
       "name": "Try Hack Me",
       "categories": [
+				{
+					"name": "Events",
+					"certifications": [
+						{
+							"name": "Advent of Cyber",
+							"image": "https://github.com/user-attachments/assets/9796f19f-07f2-45c1-928c-d8d0d9a247ab",
+							"link": "https://tryhackme.com/r/p/raf181.personal"
+						}
+					]
+				},
         {
-          "name": "",
+          "name": "Rooms",
           "certifications": [
             {
               "name": "OhSINT",
@@ -169,11 +179,6 @@
             {
                 "name": "Cyber Ready",
                 "image": "https://github.com/user-attachments/assets/dabd0cd1-1360-4996-a84e-7355d8299f8d",
-                "link": "https://tryhackme.com/r/p/raf181.personal"
-            },
-            {
-                "name": "Advent of Cyber",
-                "image": "https://github.com/user-attachments/assets/9796f19f-07f2-45c1-928c-d8d0d9a247ab",
                 "link": "https://tryhackme.com/r/p/raf181.personal"
             }
           ]
