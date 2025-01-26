@@ -1,11 +1,11 @@
 {
   "repositories": [
     {
-        "name": "Ghostkey-Project/Ghostkey_Server",
-        "description": "C2 server for the Ghostkey project",
-        "languages": "PowerShell, Arduino",
-        "url": "https://github.com/Ghostkey-Project/Ghostkey"
-      },
+      "name": "Ghostkey-Project/Ghostkey_Server",
+      "description": "C2 server for the Ghostkey project",
+      "languages": "PowerShell, Arduino",
+      "url": "https://github.com/Ghostkey-Project/Ghostkey"
+    },
     {
       "name": "Ghostkey-Project/Ghostkey_Server",
       "description": "C2 server for the Ghostkey project",
@@ -19,10 +19,10 @@
       "url": "https://github.com/Ghostkey-Project/Ghostkey_Depo"
     },
     {
-        "name": "learn.raf-181.org",
-        "description": "Central file storage for Ghostkey project",
-        "languages": "Go",
-        "url": "https://github.com/Ghostkey-Project/Ghostkey_Depo"
+      "name": "learn.raf-181.org",
+      "description": "Central file storage for Ghostkey project",
+      "languages": "Go",
+      "url": "https://github.com/Ghostkey-Project/Ghostkey_Depo"
     },
     {
       "name": "AROA-DEV/Automator",

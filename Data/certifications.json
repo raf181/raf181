@@ -96,21 +96,21 @@
       ]
     },
     {
-    "name": "Google",
-    "categories": [
+      "name": "Google",
+      "categories": [
         {
           "name": "Cloud",
           "certifications": [
-						{
+            {
               "name": "Cloud Computing",
               "image": "https://github.com/user-attachments/assets/c4af3836-d8be-4bb0-94c8-2f86a3f9fbd0",
               "link": "https://skillshop.exceedlms.com/student/award/1y46cRQwcuXGhf1qrQYDSEuD"
             }
-					]
-				},
-				{
-					"name": "Business",
-					"certifications": [
+          ]
+        },
+        {
+          "name": "Business",
+          "certifications": [
             {
               "name": "Protect Your Business: Cybersecurity in Remote Work",
               "image": "https://github.com/user-attachments/assets/cb2b1fa5-09d6-4eef-a49b-7402f7547380",
@@ -123,16 +123,16 @@
     {
       "name": "Try Hack Me",
       "categories": [
-				{
-					"name": "Events",
-					"certifications": [
-						{
-							"name": "Advent of Cyber",
-							"image": "https://github.com/user-attachments/assets/9796f19f-07f2-45c1-928c-d8d0d9a247ab",
-							"link": "https://tryhackme.com/r/p/raf181.personal"
-						}
-					]
-				},
+        {
+          "name": "Events",
+          "certifications": [
+            {
+              "name": "Advent of Cyber",
+              "image": "https://github.com/user-attachments/assets/9796f19f-07f2-45c1-928c-d8d0d9a247ab",
+              "link": "https://tryhackme.com/r/p/raf181.personal"
+            }
+          ]
+        },
         {
           "name": "Rooms",
           "certifications": [
@@ -177,9 +177,9 @@
               "link": "https://tryhackme.com/r/p/raf181.personal"
             },
             {
-                "name": "Cyber Ready",
-                "image": "https://github.com/user-attachments/assets/dabd0cd1-1360-4996-a84e-7355d8299f8d",
-                "link": "https://tryhackme.com/r/p/raf181.personal"
+              "name": "Cyber Ready",
+              "image": "https://github.com/user-attachments/assets/dabd0cd1-1360-4996-a84e-7355d8299f8d",
+              "link": "https://tryhackme.com/r/p/raf181.personal"
             }
           ]
         }
