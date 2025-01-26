@@ -54,21 +54,6 @@
           ]
         },
         {
-          "name": "Google",
-          "certifications": [
-            {
-              "name": "Cloud Computing",
-              "image": "https://github.com/user-attachments/assets/c4af3836-d8be-4bb0-94c8-2f86a3f9fbd0",
-              "link": "https://skillshop.exceedlms.com/student/award/1y46cRQwcuXGhf1qrQYDSEuD"
-            },
-            {
-                "name": "Protect Your Business: Cybersecurity in Remote Work",
-                "image": "https://storage.googleapis.com/exceedlms-external-uploads-production/uploads/certifications/badges/99217/large/fundamentals-of-digital-marketing-cert.png?GoogleAccessId=GOOG1EIO7LXRUFV35UXSWKJ3AWMYHZUVNMYIAMGSBIFYEF2AMYYAY4Y4Y5PKA&Signature=lSJVbEoUPMOkI%2BgYQDlxGTycnkc%3D&Expires=1737865959",
-                "link": "https://skillshop.exceedlms.com/student/award/XZ335nzFW1LCt4WqMav552Kk"
-            }
-          ]
-        },
-        {
           "name": "Operating Systems and Hardware",
           "certifications": [
             {
@@ -110,6 +95,21 @@
         }
       ]
     },
+    {
+        "name": "Google",
+        "certifications": [
+          {
+            "name": "Cloud Computing",
+            "image": "https://github.com/user-attachments/assets/c4af3836-d8be-4bb0-94c8-2f86a3f9fbd0",
+            "link": "https://skillshop.exceedlms.com/student/award/1y46cRQwcuXGhf1qrQYDSEuD"
+          },
+          {
+              "name": "Protect Your Business: Cybersecurity in Remote Work",
+              "image": "https://storage.googleapis.com/exceedlms-external-uploads-production/uploads/certifications/badges/99217/large/fundamentals-of-digital-marketing-cert.png?GoogleAccessId=GOOG1EIO7LXRUFV35UXSWKJ3AWMYHZUVNMYIAMGSBIFYEF2AMYYAY4Y4Y5PKA&Signature=lSJVbEoUPMOkI%2BgYQDlxGTycnkc%3D&Expires=1737865959",
+              "link": "https://skillshop.exceedlms.com/student/award/XZ335nzFW1LCt4WqMav552Kk"
+          }
+        ]
+      },
     {
       "name": "Try Hack Me",
       "categories": [
