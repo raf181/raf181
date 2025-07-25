@@ -2,6 +2,7 @@
 <div align="center">
 
 # 🚀 Rafa Ponce Vivancos
+
 ### Cybersecurity Enthusiast & Web Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=3382ED&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%26+Researcher;Web+Development+Enthusiast;Always+Learning+New+Technologies;Protecting+Digital+Spaces)](https://git.io/typing-svg)
@@ -13,6 +14,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/raf181?label=Follow&style=social)](https://github.com/raf181)
 [![GitHub stars](https://img.shields.io/github/stars/raf181?label=Stars&style=social)](https://github.com/raf181)
 [![Profile views](https://komarev.com/ghpvc/?username=raf181&color=3382ed&style=flat-square)](https://github.com/raf181)
+
+### 🎵 Currently Listening To
+
+[![Spotify](https://raf181-spotify-github-readme.vercel.app/api/spotify-playing)](https://open.spotify.com/user/raf181_)
 
 </div>
 
@@ -30,15 +35,27 @@ Hi there! I'm **Rafa Ponce Vivancos**, a passionate cybersecurity student and we
 - 🌱 **Currently Exploring**: Cloud Security, DevSecOps, IoT Security
 - 🎯 **Goal**: Making the digital world safer for everyone
 
+### 🔥 Current Focus & Status
+
+<div align="center">
+
+![](https://img.shields.io/badge/Status-Learning%20Cloud%20Security-success?style=flat-square&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Location-Spain%20🇪🇸-informational?style=flat-square&logo=google-maps&logoColor=white)
+![](https://img.shields.io/badge/CTF%20Rank-Rising-orange?style=flat-square&logo=tryhackme&logoColor=white)
+![](https://img.shields.io/badge/Favorite%20OS-Debian-red?style=flat-square&logo=debian&logoColor=white)
+
+</div>
+
 <details>
 <summary>🔍 <b>More About My Journey</b></summary>
 <br>
 
 My interest in cybersecurity began when I realized how vulnerable our online presence can be to various threats. I've been studying and experimenting with different tools and techniques to enhance my knowledge in this field and to help protect myself and others online.
 
-I believe that cybersecurity is not just about technology—it's about understanding human behavior, business processes, and the ever-evolving threat landscape. This holistic approach drives my continuous learning and professional development.
+I believe that cybersecurity is not just about technology, it's about understanding human behavior, business processes, and the ever-evolving threat landscape. This holistic approach drives my continuous learning and professional development.
 
 </details>
+
 
 ---
 
@@ -47,9 +64,11 @@ I believe that cybersecurity is not just about technology—it's about understan
 <div align="center">
 
 ### 💻 Operating Systems
+
 <img src="https://skillicons.dev/icons?i=windows,debian,linux,redhat,raspberrypi" alt="Operating Systems"/>
 
 ### 🏠 Homelab Technologies
+
 <img src="https://skillicons.dev/icons?i=cloudflare,docker,prometheus,sqlite,vscode,ansible" alt="Homelab Tech"/>
 
 ### 🔐 Security Tools & Frameworks
@@ -63,6 +82,44 @@ I believe that cybersecurity is not just about technology—it's about understan
 | **Network Security** | Wireshark, Nmap, Burp Suite, OWASP ZAP, snort, Unifi IPS & IDS |
 | **Incident Response** | Splunk, ELK Stack, Wazuh |
 | **Development** | Python, Go, PowerShell, Bash, Rust |
+
+</div>
+
+### 📈 Skills Progression
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+graph TD
+    A[🛡️ Cybersecurity Skills] --> B[Network Security - 85%]
+    A --> C[Web Security - 80%]
+    A --> D[Cloud Security - 70%]
+    A --> E[Incident Response - 75%]
+    A --> F[Penetration Testing - 78%]
+    A --> G[Development - 85%]
+    A --> H[System Administration - 88%]
+    
+    B --> B1[Wireshark & Nmap]
+    C --> C1[OWASP & Burp Suite]
+    D --> D1[AWS & Azure Security]
+    E --> E1[SIEM & Forensics]
+    F --> F1[Metasploit & Kali]
+    G --> G1[Python & Go]
+    H --> H1[Linux & Docker]
+```
+
+**Alternative Skills Visualization:**
+
+| Skill Category | Proficiency | Progress Bar |
+|:-------------:|:-----------:|:------------:|
+| **System Administration** | 88% | ![](https://progress-bar.dev/88?title=SysAdmin&color=00ff00) |
+| **Network Security** | 85% | ![](https://progress-bar.dev/85?title=NetSec&color=3382ed) |
+| **Development** | 85% | ![](https://progress-bar.dev/85?title=Dev&color=facc15) |
+| **Penetration Testing** | 78% | ![](https://progress-bar.dev/78?title=PenTest&color=ff6b35) |
+| **Incident Response** | 75% | ![](https://progress-bar.dev/75?title=IR&color=9b59b6) |
+| **Web Security** | 80% | ![](https://progress-bar.dev/80?title=WebSec&color=e74c3c) |
+| **Cloud Security** | 70% | ![](https://progress-bar.dev/70?title=Cloud&color=1abc9c) |
 
 </div>
 
@@ -85,6 +142,14 @@ I believe that cybersecurity is not just about technology—it's about understan
 
 </div>
 
+### ⏱️ Weekly Coding Activity
+
+<div align="center">
+
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=raf181&layout=compact&theme=dark&bg_color=1c1917&title_color=3382ed&text_color=ffffff&hide_border=true)](https://wakatime.com/@raf181)
+
+</div>
+
 ---
 
 ## 🏆 Certifications & Achievements
@@ -100,6 +165,7 @@ I believe that cybersecurity is not just about technology—it's about understan
 <br>
 
 ### Cybersecurity Track
+
 <div align="center">
 <a href="https://www.credly.com/badges/4f66ef73-ae9d-4966-8d23-96ee756d6d38/public_url" title="Junior Cybersecurity Analyst Career Path">
   <img src="https://github.com/user-attachments/assets/acf26c35-1844-4bd5-a4b0-e447a8f3f9ff" width="80" alt="Junior Cybersecurity Analyst"/>
@@ -119,6 +185,7 @@ I believe that cybersecurity is not just about technology—it's about understan
 </div>
 
 ### Network Track
+
 <div align="center">
 <a href="https://www.credly.com/badges/17b55335-1091-4f83-a746-5166bfbe78ef/public_url" title="Network Defense">
   <img src="https://github.com/user-attachments/assets/2b956de4-fe3d-4cb5-9d9b-1453454e631e" width="80" alt="Network Defense"/>
@@ -132,6 +199,7 @@ I believe that cybersecurity is not just about technology—it's about understan
 </div>
 
 ### IoT & Hardware
+
 <div align="center">
 <a href="https://www.credly.com/badges/35fde3ca-41d5-4f4e-8c42-721281b0e67f/public_url" title="Introduction to IoT">
   <img src="https://github.com/user-attachments/assets/590550f9-b252-4aa5-b387-b835d2e81801" width="80" alt="IoT"/>
@@ -151,6 +219,7 @@ I believe that cybersecurity is not just about technology—it's about understan
 <br>
 
 ### Recent Completions
+
 <div align="center">
 <a href="https://tryhackme.com/r/p/raf181.personal" title="Advent of Cyber 24">
   <img src="https://github.com/user-attachments/assets/9796f19f-07f2-45c1-928c-d8d0d9a247ab" width="80" alt="Advent of Cyber 24"/>
@@ -170,6 +239,7 @@ I believe that cybersecurity is not just about technology—it's about understan
 </div>
 
 ### Advanced Challenges
+
 <div align="center">
 <a href="https://tryhackme.com/r/p/raf181.personal" title="Hash Cracker">
   <img src="https://github.com/user-attachments/assets/e0e6e260-e969-48e9-8419-95bd9fbd7c86" width="80" alt="Hash Cracker"/>
@@ -192,6 +262,7 @@ I believe that cybersecurity is not just about technology—it's about understan
 <br>
 
 ### Penetration Testing
+
 <div align="center">
 <a href="https://www.offsec.com" title="Offensive Security Training">
   <img src="https://github.com/user-attachments/assets/bccf410a-0d2e-4677-ae02-abb910cb4bff" width="80" alt="OffSec"/>
@@ -208,6 +279,7 @@ I believe that cybersecurity is not just about technology—it's about understan
 <br>
 
 ### Google Cloud & Security
+
 <div align="center">
 <a href="https://skillshop.exceedlms.com/student/award/1y46cRQwcuXGhf1qrQYDSEuD" title="Cloud Computing">
   <img src="https://github.com/user-attachments/assets/c4af3836-d8be-4bb0-94c8-2f86a3f9fbd0" width="80" alt="Cloud Computing"/>
@@ -234,15 +306,57 @@ I believe that cybersecurity is not just about technology—it's about understan
 <br>
 
 - **[Ghostkey Project](https://github.com/Ghostkey-Project)** - C2 server infrastructure with Go/Python backend
-- **[AROA-DEV Automator](https://github.com/AROA-DEV/Automator)** - Linux automation toolkit
-- **[Learn Platform](https://learn.raf-181.org)** - Educational cybersecurity resources
+- **[NetTool](https://github.com/NetScout-Go)** -  Open-source project focused on network diagnostics tool
 - **Personal Research** - Ongoing security research and tool development
+
+### 📊 TryHackMe Progress Dashboard
+
+<div align="center">
+
+![TryHackMe Stats](https://github-readme-stats.vercel.app/api/pin/?username=raf181&repo=tryhackme-progress&theme=dark&bg_color=1c1917&title_color=3382ed&text_color=ffffff&hide_border=true)
+
+**Current THM Rank:** ![](https://img.shields.io/badge/Rank-Top%2010%25-brightgreen?style=flat-square&logo=tryhackme)
+**Completed Rooms:** ![](https://img.shields.io/badge/Rooms-25+-blue?style=flat-square&logo=tryhackme)
+**Streak:** ![](https://img.shields.io/badge/Streak-15%20days-orange?style=flat-square&logo=fire)
+
+</div>
 
 </details>
 
 ---
 
-## 📱 Connect With Me
+## 🕔 Latest Learning & Blog Posts
+
+<div align="center">
+
+### 📖 Recent Articles & Write-ups
+
+</div>
+
+<details>
+<summary>📝 <b>CTF Write-ups & Learning Notes</b></summary>
+<br>
+
+- 🔐 **[TryHackMe: Mr. Robot Walkthrough](https://learn.raf-181.org/writeups/mr-robot)** - Complete walkthrough with privilege escalation
+- 🌐 **[OWASP Top 10 Analysis](https://learn.raf-181.org/security/owasp-analysis)** - Deep dive into web application vulnerabilities  
+- 🛡️ **[Network Defense Strategies](https://learn.raf-181.org/defense/network-security)** - IDS/IPS implementation and monitoring
+- ☁️ **[Cloud Security Best Practices](https://learn.raf-181.org/cloud/security-practices)** - AWS & Azure security configurations
+
+</details>
+
+<div align="center">
+
+### 📈 Learning Progress This Month
+
+![](https://img.shields.io/badge/Hours%20Studied-42-blue?style=for-the-badge&logo=clock)
+![](https://img.shields.io/badge/CTF%20Challenges-8-green?style=for-the-badge&logo=flag)
+![](https://img.shields.io/badge/New%20Tools-5-purple?style=for-the-badge&logo=tools)
+
+</div>
+
+---
+
+## 📲 Connect With Me
 
 <div align="center">
 
