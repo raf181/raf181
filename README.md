@@ -56,7 +56,6 @@ I believe that cybersecurity is not just about technology, it's about understand
 
 </details>
 
-
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -308,9 +307,8 @@ I believe that cybersecurity is not just about technology, it's about understand
 
 ### 📈 Learning Progress This Month
 
-![](https://img.shields.io/badge/Hours%20Studied-42-blue?style=for-the-badge&logo=clock)
 ![](https://img.shields.io/badge/CTF%20Challenges-8-green?style=for-the-badge&logo=flag)
-![](https://img.shields.io/badge/New%20Tools-5-purple?style=for-the-badge&logo=tools)
+![](https://img.shields.io/badge/New%20Tools-5+-purple?style=for-the-badge&logo=tools)
 
 </div>
 
