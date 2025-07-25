@@ -85,46 +85,6 @@ I believe that cybersecurity is not just about technology, it's about understand
 
 </div>
 
-### 📈 Skills Progression
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-graph TD
-    A[🛡️ Cybersecurity Skills] --> B[Network Security - 85%]
-    A --> C[Web Security - 80%]
-    A --> D[Cloud Security - 70%]
-    A --> E[Incident Response - 75%]
-    A --> F[Penetration Testing - 78%]
-    A --> G[Development - 85%]
-    A --> H[System Administration - 88%]
-    
-    B --> B1[Wireshark & Nmap]
-    C --> C1[OWASP & Burp Suite]
-    D --> D1[AWS & Azure Security]
-    E --> E1[SIEM & Forensics]
-    F --> F1[Metasploit & Kali]
-    G --> G1[Python & Go]
-    H --> H1[Linux & Docker]
-```
-
-**Alternative Skills Visualization:**
-
-| Skill Category | Proficiency | Progress Bar |
-|:-------------:|:-----------:|:------------:|
-| **System Administration** | 88% | ![](https://progress-bar.dev/88?title=SysAdmin&color=00ff00) |
-| **Network Security** | 85% | ![](https://progress-bar.dev/85?title=NetSec&color=3382ed) |
-| **Development** | 85% | ![](https://progress-bar.dev/85?title=Dev&color=facc15) |
-| **Penetration Testing** | 78% | ![](https://progress-bar.dev/78?title=PenTest&color=ff6b35) |
-| **Incident Response** | 75% | ![](https://progress-bar.dev/75?title=IR&color=9b59b6) |
-| **Web Security** | 80% | ![](https://progress-bar.dev/80?title=WebSec&color=e74c3c) |
-| **Cloud Security** | 70% | ![](https://progress-bar.dev/70?title=Cloud&color=1abc9c) |
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
