@@ -115,71 +115,13 @@ I believe that cybersecurity is not just about technology, it's about understand
 
 <div align="center">
 
-### 🎖️ Interactive Certification Gallery
+### � TryHackMe Achievements
 
 </div>
-
-<details>
-<summary>🔐 <b>Cisco Certifications</b></summary>
-<br>
-
-### Cybersecurity Track
 
 <div align="center">
-<a href="https://www.credly.com/badges/4f66ef73-ae9d-4966-8d23-96ee756d6d38/public_url" title="Junior Cybersecurity Analyst Career Path">
-  <img src="https://github.com/user-attachments/assets/acf26c35-1844-4bd5-a4b0-e447a8f3f9ff" width="80" alt="Junior Cybersecurity Analyst"/>
-</a>
-<a href="https://www.credly.com/badges/3d308ea4-aacb-4a3e-8806-b9b2ac1bdc00/public_url" title="Ethical Hacker">
-  <img src="https://github.com/raf181/raf181/assets/93051606/7323066c-c856-4a16-93db-3fd383dc4b0e" width="80" alt="Ethical Hacker"/>
-</a>
-<a href="https://www.credly.com/badges/3490a74f-ec44-42f7-8b21-0de5bce92f72/public_url" title="Cyber Threat Management">
-  <img src="https://github.com/user-attachments/assets/fe7e658e-39ab-48bf-b765-22c5daf55188" width="80" alt="Cyber Threat Management"/>
-</a>
-<a href="https://www.credly.com/badges/5fefd5d8-136e-454e-bc36-e308e6b89d93/public_url" title="Endpoint Security">
-  <img src="https://github.com/raf181/raf181/assets/93051606/a2081547-b789-4c7b-aa92-428b275c0b10" width="80" alt="Endpoint Security"/>
-</a>
-<a href="https://www.credly.com/badges/ddcef372-6ead-4978-9b75-dfe48abca565/public_url" title="Introduction to Cybersecurity">
-  <img src="https://github.com/raf181/raf181/assets/93051606/eefdce47-5eab-4bb8-9cda-b657802b9ace" width="80" alt="Introduction to Cybersecurity"/>
-</a>
-</div>
-
-### Network Track
-
-<div align="center">
-<a href="https://www.credly.com/badges/17b55335-1091-4f83-a746-5166bfbe78ef/public_url" title="Network Defense">
-  <img src="https://github.com/user-attachments/assets/2b956de4-fe3d-4cb5-9d9b-1453454e631e" width="80" alt="Network Defense"/>
-</a>
-<a href="https://www.credly.com/badges/70ea556b-a4a8-4084-90fa-5c3d99628bde/public_url" title="Networking Devices and Initial Configuration">
-  <img src="https://github.com/raf181/raf181/assets/93051606/a616342a-c7c6-4c28-98b2-b0461abd9893" width="80" alt="Networking Devices"/>
-</a>
-<a href="https://www.credly.com/badges/cd83f4ea-92f9-448c-a0ed-89d5aff66641/public_url" title="Networking Basics">
-  <img src="https://github.com/raf181/raf181/assets/93051606/223d8ddd-ce83-42f4-8f36-4d084bba3c07" width="80" alt="Networking Basics"/>
-</a>
-</div>
-
-### IoT & Hardware
-
-<div align="center">
-<a href="https://www.credly.com/badges/35fde3ca-41d5-4f4e-8c42-721281b0e67f/public_url" title="Introduction to IoT">
-  <img src="https://github.com/user-attachments/assets/590550f9-b252-4aa5-b387-b835d2e81801" width="80" alt="IoT"/>
-</a>
-<a href="https://www.credly.com/badges/e8b668f8-741c-467c-956e-c5ed48dbf6e1/public_url" title="Computer Hardware Basics">
-  <img src="https://github.com/raf181/raf181/assets/93051606/513a5397-b8de-49f9-bec6-517f991da685" width="80" alt="Hardware"/>
-</a>
-<a href="https://www.credly.com/badges/88e543c0-72c7-4f7d-9c5d-6736e53960a2/public_url" title="Operating Systems Basics">
-  <img src="https://github.com/user-attachments/assets/a7d583ed-d7ec-4d45-97f4-c0bf64f3d1bc" width="80" alt="OS Basics"/>
-</a>
-</div>
-
-</details>
-
-<details>
-<summary>🎮 <b>TryHackMe Achievements</b></summary>
-<br>
 
 ### Recent Completions
-
-<div align="center">
 <a href="https://tryhackme.com/r/p/raf181.personal" title="Advent of Cyber 24">
   <img src="https://github.com/user-attachments/assets/9796f19f-07f2-45c1-928c-d8d0d9a247ab" width="80" alt="Advent of Cyber 24"/>
 </a>
@@ -195,11 +137,8 @@ I believe that cybersecurity is not just about technology, it's about understand
 <a href="https://tryhackme.com/r/p/raf181.personal" title="Mr. Robot">
   <img src="https://github.com/user-attachments/assets/3aa1bd4a-ace6-4305-9566-0dd0c7ea98bd" width="80" alt="Mr. Robot"/>
 </a>
-</div>
 
 ### Advanced Challenges
-
-<div align="center">
 <a href="https://tryhackme.com/r/p/raf181.personal" title="Hash Cracker">
   <img src="https://github.com/user-attachments/assets/e0e6e260-e969-48e9-8419-95bd9fbd7c86" width="80" alt="Hash Cracker"/>
 </a>
@@ -212,43 +151,18 @@ I believe that cybersecurity is not just about technology, it's about understand
 <a href="https://tryhackme.com/r/p/raf181.personal" title="Cyber Ready">
   <img src="https://github.com/user-attachments/assets/dabd0cd1-1360-4996-a84e-7355d8299f8d" width="80" alt="Cyber Ready"/>
 </a>
+
 </div>
 
-</details>
-
-<details>
-<summary>⚡ <b>Offensive Security & Hack The Box</b></summary>
-<br>
-
-### Penetration Testing
+### 📜 Professional Certifications
 
 <div align="center">
-<a href="https://www.offsec.com" title="Offensive Security Training">
-  <img src="https://github.com/user-attachments/assets/bccf410a-0d2e-4677-ae02-abb910cb4bff" width="80" alt="OffSec"/>
-</a>
-<a href="https://academy.hackthebox.com/achievement/badge/c155474e-8bce-11ef-864f-bea50ffe6cb4" title="Hack The Box Academy">
-  <img src="https://github.com/user-attachments/assets/7e98d3a2-fcca-4c1b-b5dc-6e371a066de9" width="80" alt="HTB Academy"/>
-</a>
+
+[![View All Certifications](https://img.shields.io/badge/View%20All%20Certifications-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raf181)
+
+**Featured:** Cisco Cybersecurity • Network Security • Cloud Computing • Ethical Hacking
+
 </div>
-
-</details>
-
-<details>
-<summary>☁️ <b>Cloud & Business Certifications</b></summary>
-<br>
-
-### Google Cloud & Security
-
-<div align="center">
-<a href="https://skillshop.exceedlms.com/student/award/1y46cRQwcuXGhf1qrQYDSEuD" title="Cloud Computing">
-  <img src="https://github.com/user-attachments/assets/c4af3836-d8be-4bb0-94c8-2f86a3f9fbd0" width="80" alt="Cloud Computing"/>
-</a>
-<a href="https://skillshop.exceedlms.com/student/award/XZ335nzFW1LCt4WqMav552Kk" title="Cybersecurity in Remote Work">
-  <img src="https://github.com/user-attachments/assets/cb2b1fa5-09d6-4eef-a49b-7402f7547380" width="80" alt="Remote Work Security"/>
-</a>
-</div>
-
-</details>
 
 ---
 
