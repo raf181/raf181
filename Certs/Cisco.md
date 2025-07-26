@@ -26,6 +26,9 @@
 
 ### Network:
 <p align="center">
+      <a>
+            <img src="https://github.com/user-attachments/assets/e849639b-6d02-4d2e-981a-1a7fe02f74f8" width="100" height="100">
+      </a>
       <a href="https://www.credly.com/badges/17b55335-1091-4f83-a746-5166bfbe78ef/public_url">
     <img src="https://github.com/user-attachments/assets/2b956de4-fe3d-4cb5-9d9b-1453454e631e" alt="Badge1" width="100" height="100">
   </a>
