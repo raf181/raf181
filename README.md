@@ -1,6 +1,7 @@
 
 <div align="center">
 
+
 # 🚀 Rafa Ponce Vivancos
 
 ### Cybersecurity Enthusiast & Web Developer
@@ -269,3 +270,9 @@ I believe that cybersecurity is not just about technology, it's about understand
 *"The best defense is a good offense, but the best offense is understanding."*
 
 </div>
+
+
+<!-- 
+<img width="600" height="600" alt="ccna-introduction-to-networks" src="https://github.com/user-attachments/assets/c0fe1778-83a1-4084-9aa9-96389821c830" />
+
+-->
