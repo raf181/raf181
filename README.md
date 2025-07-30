@@ -159,7 +159,7 @@ I believe that cybersecurity is not just about technology, it's about understand
 
 <div align="center">
 
-[![View All Certifications](https://img.shields.io/badge/View%20All%20Certifications-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raf181)
+[![View All Certifications](https://img.shields.io/badge/View%20All%20Certifications-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafa-ponce/details/certifications/)
 
 **Featured:** Cisco Cybersecurity • Network Security • Cloud Computing • Ethical Hacking
 
